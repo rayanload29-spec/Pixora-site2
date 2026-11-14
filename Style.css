@@ -1,0 +1,100 @@
+body{
+    height: 1080px;
+
+  background: linear-gradient(180deg, rgb(49, 42, 71), rgba(44, 44, 44, 0.747));
+  width: 100%;
+}
+
+
+p{  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-color: rgb(49, 42, 53);
+    margin: 30px 100px;
+    padding: 15px;
+    text-align: center;
+    display: block;
+    border-radius: 10px;
+}
+th{
+color: white;
+
+}
+td{color: White;
+
+
+}
+h1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+}
+h2{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+}
+h3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+}
+li{
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+img{
+        margin: 30px;
+
+
+
+}
+nav {
+background-color: rgba(33, 33, 34, 0.747);
+padding: 0px 24px;
+}
+
+nav ul {
+display: flex;
+gap: 8px;
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+nav a {
+display: block;
+padding: 14px 20px;
+color: white;
+text-decoration: none;
+border-radius: 6px;
+transition: background-color 0.3s ease;
+
+}
+nav a:hover {
+background-color: rgb(100, 100, 100);
+}
+nav a.actief {
+background-color: rgb(139, 137, 137);
+
+}
+
+img{
+padding: 70px;
+
+}
+
+ul h3{font-size: 20px;
+text-align: center;
+margin: 10px;
+
+}
+
+.hero{
+height: 1100px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/PIXORA\ 2.0.png");
+background-size: cover;
+color: white;
+
+
+}
